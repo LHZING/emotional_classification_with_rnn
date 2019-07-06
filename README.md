@@ -1,5 +1,8 @@
 # 基于循环神经网络(RNN)的评论情感分类
 
+环境配置
+https://blog.csdn.net/aaronjny/article/details/79330727
+
 使用循环神经网络，完成对影评的情感（正面、负面）分类。
 
 训练使用的数据集为[https://www.cs.cornell.edu/people/pabo/movie-review-data/](https://www.cs.cornell.edu/people/pabo/movie-review-data/)上的[sentence polarity dataset v1.0](https://www.cs.cornell.edu/people/pabo/movie-review-data/rt-polaritydata.tar.gz)，包含正负面评论各5331条。
